@@ -7,6 +7,6 @@
 
 **Favorite Subject**:
 
-**When I grow up I want to be ...*:
+**When I grow up I want to be ...**:
 
 **Fun Fact**:
