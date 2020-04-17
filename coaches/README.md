@@ -5,7 +5,7 @@
 
 ## Sean McCoy
 
-**Occupation**:
+**Job**:
 
 **Favorite Band**:
 
@@ -15,7 +15,7 @@
 
 ![adam](adam.jpg)
 
-**Occupation**:
+**Job**:
 
 **Favorite Band**:
 
@@ -23,9 +23,9 @@
 
 ## Julie Hartley
 
-![julie](julie.jpg)
+![julie](julie2-lq1.jpg)
 
-**Occupation**: Physics Graduate Student at Michigan State University
+**JOb**: Physics Graduate Student at Michigan State University
 
 **Favorite Band**: Lynard Skynard
 
